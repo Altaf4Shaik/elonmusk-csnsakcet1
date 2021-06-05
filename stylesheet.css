@@ -354,6 +354,13 @@ h4{
     
 }
 
+/*video*/
+
+.youtube {
+display:flex;
+    align-items:center;
+    justify-content:center;}
+
 /*project section */
 
 #project{
